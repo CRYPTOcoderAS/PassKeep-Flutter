@@ -5,7 +5,7 @@
 </p>
 
 
-<h1 align="center">Welcome to Password Keeper App 👋</h1>
+<h1 align="center">Welcome to Password Keep App 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="to be added" target="_blank">
