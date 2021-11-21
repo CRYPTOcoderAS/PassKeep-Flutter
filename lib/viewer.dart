@@ -67,7 +67,7 @@ class Viewer extends StatelessWidget {
             ListTile(
               // leading: const Icon(Icons.apartment),
               title: const Text(
-                '\n\nMADE BY : Akshat Sachan\n\n',
+                '\n\nMADE BY : Akshat Sachan\n',
                 style: TextStyle(fontSize: 18.0),
               ),
 
